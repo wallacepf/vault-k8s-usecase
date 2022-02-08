@@ -1,0 +1,12 @@
+global:
+  enabled: true
+  openshift: false
+
+server:
+  enabled: true
+  dev:
+    enabled: true
+
+ui:
+  enabled: true
+  serviceType: "LoadBalancer"
